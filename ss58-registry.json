@@ -1136,6 +1136,15 @@
       "website": "https://subspace.network"
     },
     {
+      "prefix": 6852,
+      "network": "redefi",
+      "displayName": "ReDeFi Parachain Network",
+      "symbols": ["OMN"],
+      "decimals": [18],
+      "standardAccount": "*25519",
+      "website": "https://redefi.world"
+    },
+    {
       "prefix": 7007,
       "network": "tidefi",
       "displayName": "Tidefi",
